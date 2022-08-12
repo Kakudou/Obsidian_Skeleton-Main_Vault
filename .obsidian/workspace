@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "360270560f029850",
+    "type": "split",
+    "children": [
+      {
+        "id": "819411237d1acf0e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17112c626af6087b",
+    "type": "split",
+    "children": [
+      {
+        "id": "63a0be7f9161f7b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb96dcbc36f7269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bf1749245269859e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f35d673716426f7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a00e71660b5cb290",
+    "type": "split",
+    "children": [
+      {
+        "id": "558928b0c84a2b72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aca60f19245d3c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1d01469c450674d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc9a1147b085115f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "150248e361921a48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa685dd1e31ff184",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "13af2dea123c3dc4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7eee84b875159f3c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "819411237d1acf0e",
+  "lastOpenFiles": [
+    "000.000 Global Index.md",
+    "020 - Zettelkasten/020.000 Zettelkasten Index.md",
+    "010 - Planners/014 - Daily/2022/August/2022-08-10.md",
+    "000 - Meta/003 - Templates/008.SWOT.md",
+    "000 - Meta/003 - Templates/007.Gherkin.md",
+    "000 - Meta/003 - Templates/006.KanbanCard.md",
+    "000 - Meta/003 - Templates/005.KanbanBoard.md",
+    "000 - Meta/003 - Templates/004.WeeklyPlanner.md",
+    "000 - Meta/003 - Templates/003.DailyPlanner.md",
+    "000 - Meta/003 - Templates/002.Definition.md"
+  ]
+}

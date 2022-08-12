@@ -1,0 +1,25 @@
+{
+  "new-note-template": "000 - Meta/003 - Templates/006.KanbanCard.md",
+  "new-note-folder": "020 - Zettelkasten/025 - KanbanCards",
+  "show-checkboxes": true,
+  "date-format": "YYYY-MM-DD",
+  "date-display-format": "YYYY-MM-DD",
+  "show-relative-date": true,
+  "hide-date-display": true,
+  "hide-date-in-title": true,
+  "date-picker-week-start": 1,
+  "metadata-keys": [
+    {
+      "metadataKey": "Due Date",
+      "label": "Due Date: ",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "Assigned",
+      "label": "Assigned: ",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ]
+}
