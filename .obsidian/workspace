@@ -7,8 +7,12 @@
         "id": "819411237d1acf0e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "000 - Meta/003 - Templates/002.Definition.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 - Meta/003 - Templates/002.Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000 - Meta/003 - Templates/002.Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "000 - Meta/003 - Templates/002.Definition.md"
+              }
             }
           },
           {
@@ -147,15 +155,15 @@
   },
   "active": "819411237d1acf0e",
   "lastOpenFiles": [
+    "000 - Meta/003 - Templates/009.Snippets.md",
+    "000 - Meta/003 - Templates/007.Gherkin.md",
+    "000 - Meta/003 - Templates/008.SWOT.md",
+    "000 - Meta/001 - Settings/Obsidian Settings.md",
+    "010 - Planners/014 - Daily/2022/August/2022-08-16.md",
     "000.000 Global Index.md",
     "020 - Zettelkasten/020.000 Zettelkasten Index.md",
     "010 - Planners/014 - Daily/2022/August/2022-08-10.md",
-    "000 - Meta/003 - Templates/008.SWOT.md",
-    "000 - Meta/003 - Templates/007.Gherkin.md",
     "000 - Meta/003 - Templates/006.KanbanCard.md",
-    "000 - Meta/003 - Templates/005.KanbanBoard.md",
-    "000 - Meta/003 - Templates/004.WeeklyPlanner.md",
-    "000 - Meta/003 - Templates/003.DailyPlanner.md",
-    "000 - Meta/003 - Templates/002.Definition.md"
+    "000 - Meta/003 - Templates/005.KanbanBoard.md"
   ]
 }

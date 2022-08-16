@@ -174,6 +174,7 @@ Title: Obsidian Settings
 `Focus on pane to the below` : `cmd+down`  
 `Focus on pane to the left` : `cmd+left`  
 `Focus on pane to the right` : `cmd+right`  
+`Split verticaly`: `cmd+shift+s`
 `Toggle left sidebar` : `cmd+shift+left`  
 `Toggle right sidebar` : `cmd+shift+right`
 
