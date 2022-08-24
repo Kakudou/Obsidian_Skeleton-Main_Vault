@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "000 - Meta/003 - Templates",
+  "templates_folder": "000-Meta/003-Templates",
   "templates_pairs": [
     [
       "",
@@ -16,15 +16,15 @@
   "folder_templates": [
     {
       "folder": "/",
-      "template": "000 - Meta/003 - Templates/001.Zettel.md"
+      "template": "000-Meta/003-Templates/003.001.zettel.md"
     },
     {
-      "folder": "010 - Planners/013 - Weekly",
-      "template": "000 - Meta/003 - Templates/004.WeeklyPlanner.md"
+      "folder": "010-Planners/013-Weekly",
+      "template": "000-Meta/003-Templates/003.004.weeklyplanner.md"
     },
     {
-      "folder": "010 - Planners/014 - Daily",
-      "template": "000 - Meta/003 - Templates/003.DailyPlanner.md"
+      "folder": "010-Planners/014-Daily",
+      "template": "000-Meta/003-Templates/003.003.dailyplanner.md"
     }
   ],
   "syntax_highlighting": true,

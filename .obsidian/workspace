@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "819411237d1acf0e",
+        "id": "01221fe9f8045749",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "000 - Meta/003 - Templates/002.Definition.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 - Meta/003 - Templates/002.Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 - Meta/003 - Templates/002.Definition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000 - Meta/003 - Templates/002.Definition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "819411237d1acf0e",
+  "active": "01221fe9f8045749",
   "lastOpenFiles": [
-    "000 - Meta/003 - Templates/009.Snippets.md",
-    "000 - Meta/003 - Templates/007.Gherkin.md",
-    "000 - Meta/003 - Templates/008.SWOT.md",
-    "000 - Meta/001 - Settings/Obsidian Settings.md",
-    "010 - Planners/014 - Daily/2022/August/2022-08-16.md",
-    "000.000 Global Index.md",
-    "020 - Zettelkasten/020.000 Zettelkasten Index.md",
-    "010 - Planners/014 - Daily/2022/August/2022-08-10.md",
-    "000 - Meta/003 - Templates/006.KanbanCard.md",
-    "000 - Meta/003 - Templates/005.KanbanBoard.md"
+    "000-Meta/001-Settings/obsidian-settings.md",
+    "000-Meta/002-Plugins/002.002-Optionals/reading-time.md",
+    "000-Meta/002-Plugins/002.002-Optionals/linter.md",
+    "000-Meta/002-Plugins/002.002-Optionals/enhancing-mindmap.md",
+    "000-Meta/002-Plugins/002.002-Optionals/copy-button-for-code-block.md",
+    "000-Meta/002-Plugins/002.002-Optionals/checklist.md",
+    "000-Meta/002-Plugins/002.001-Required/templater.md",
+    "000-Meta/002-Plugins/002.001-Required/kanban.md",
+    "000-Meta/002-Plugins/002.001-Required/editor-syntax-highlight.md",
+    "000-Meta/002-Plugins/002.001-Required/day-planner.md"
   ]
 }

@@ -5,6 +5,6 @@
   "showWeeklyNote": true,
   "weeklyNoteFormat": "gggg/gggg-[W]ww",
   "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "/010 - Planners/013 - Weekly",
+  "weeklyNoteFolder": "/010-Planners/013-Weekly",
   "localeOverride": "en-gb"
 }

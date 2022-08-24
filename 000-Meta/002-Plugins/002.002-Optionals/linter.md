@@ -20,7 +20,7 @@ Title: Linter
 `Insert the title` : `True`  
 `Title Key` : `Title`
 
-`Gets the title from the first H1 or filename` : `False`
+`Gets the title from the first H1 or filename` : `True`
 
 `Move Footnotes to the bottom` : `True`  
 `Re-Index Footnotes` : `True`

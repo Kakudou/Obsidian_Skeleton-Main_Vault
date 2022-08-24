@@ -11,6 +11,6 @@ Title: Calendar
 `Show week number` : `True`
 
 `Weekly note format` : `gggg/gggg-[W]ww`  
-`Weekly note folder` : `/010 - Planners/013 - Weekly`
+`Weekly note folder` : `/010-Planners/013-Weekly`
 
 `Override locale` : `en-gb`

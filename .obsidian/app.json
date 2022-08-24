@@ -5,11 +5,11 @@
   "tabSize": 2,
   "spellcheck": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "020 - Zettelkasten/022 - Zettel",
+  "newFileFolderPath": "020-Zettelkasten/022-Zettel",
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "020 - Zettelkasten/021 - Attachments",
+  "attachmentFolderPath": "020-Zettelkasten/021-Attachments",
   "userIgnoreFilters": [
-    "000 - Meta/"
+    "000-Meta/"
   ]
 }

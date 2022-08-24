@@ -17,12 +17,12 @@ Title: Obsidian Settings
 ### Files & Links
 
 `Default Location for new notes` : `In the folder specified below`  
-`Folder to create new notes in` : `020 - Zettelkasten/022 - Zettel`  
+`Folder to create new notes in` : `020-Zettelkasten/022-Zettel`  
 `Use [[Wikilinks]]` : `False`
 `Detect all file extensions` : `True`  
 `Default location for new attachments` : `In the folder specified below`  
-`Attachment folder path` : `020 - Zettelkasten/021 - Attachments`  
-`Excluded files` : `000 - Meta`
+`Attachment folder path` : `020-Zettelkasten/021-Attachments`  
+`Excluded files` : `000-Meta`
 
 ### Appearance
 
@@ -195,7 +195,7 @@ Title: Obsidian Settings
 ### Daily Notes
 
 `Date format` : `YYYY/MMMM/YYYY-MM-DD`  
-`New file location` : `010 - Planners/014 - Daily`  
+`New file location` : `010-Planners/014-Daily`  
 `Open daily note on startup` : `True`
 
 ### Page preview
