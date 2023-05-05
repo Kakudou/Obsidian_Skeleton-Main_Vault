@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "clean-embeds"
   ],
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 14
 }

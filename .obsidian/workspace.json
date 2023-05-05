@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea420a3501fbf032",
+        "id": "b1d2b63ceee25382",
         "type": "tabs",
         "children": [
           {
-            "id": "01221fe9f8045749",
+            "id": "987871cdd3ffd2c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -60,12 +60,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3d5b9ed402cd6058",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 550
   },
   "right": {
     "id": "a00e71660b5cb290",
@@ -138,7 +146,7 @@
             }
           },
           {
-            "id": "7eee84b875159f3c",
+            "id": "5429d55b811582b3",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -146,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,19 +174,40 @@
   },
   "active": "dcb96dcbc36f7269",
   "lastOpenFiles": [
-    "000.000.global-index.md",
-    "010-Planners/014-Daily/2023/March/2023-03-28.md",
-    "010-Planners/014-Daily/2023/March",
+    "020-Zettelkasten/020.000.zettelkasten-index.md",
+    "010-Planners/014-Daily/2023/May/2023-05-05.md",
+    "010-Planners/014-Daily/2023/May",
     "010-Planners/014-Daily/2023",
-    "010-Planners/014-Daily/2022/August/2022-08-24.md",
-    "000-Meta/001-Settings/obsidian-settings.md",
-    "000-Meta/002-Plugins/002.002-Optionals/reading-time.md",
-    "000-Meta/002-Plugins/002.002-Optionals/linter.md",
-    "000-Meta/002-Plugins/002.002-Optionals/enhancing-mindmap.md",
-    "000-Meta/002-Plugins/002.002-Optionals/copy-button-for-code-block.md",
-    "000-Meta/002-Plugins/002.002-Optionals/checklist.md",
-    "000-Meta/002-Plugins/002.001-Required/templater.md",
-    "000-Meta/002-Plugins/002.001-Required/kanban.md",
-    "000-Meta/002-Plugins/002.001-Required/editor-syntax-highlight.md"
+    "000.000.global-index.md",
+    "000-Meta/003-Templates/003.003.dailyplanner.md",
+    "000-Meta/003-Templates/003.004.weeklyplanner.md",
+    "000-Meta/003-Templates/003.005.kanbanboard.md",
+    "000-Meta/003-Templates/003.006.kanbancard.md",
+    "000-Meta/003-Templates/003.007.gherkin.md",
+    "000-Meta/003-Templates/003.009.snippets.md",
+    "000-Meta/003-Templates/003.008.swot.md",
+    "020-Zettelkasten/022-Zettel/Untitled.md",
+    "020-Zettelkasten/022-Zettel/Cybereason.md",
+    "100-Personal/100.000.personal-index.md",
+    "010-Planners/014-Daily/2023/March/2023-03-29.md",
+    "010-Planners/014-Daily/2023/April/2023-04-03.md",
+    "020-Zettelkasten/022-Zettel/shadowrun.md",
+    "020-Zettelkasten/022-Zettel/Untitled 1.md",
+    "010-Planners/014-Daily/2023/May/2023-05-03.md",
+    "010-Planners/014-Daily/2023/April/2023-04-20.md",
+    "010-Planners/014-Daily/2023/April/2023-04-19.md",
+    "attck_review.md",
+    "010-Planners/014-Daily/2023/April/2023-04-18.md",
+    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/module4_dpo_outils_conformite.md",
+    "010-Planners/014-Daily/2023/April",
+    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/module3_responsabilites.md",
+    "500-Workspace/500.000.workspace-index.md",
+    "010-Planners/014-Daily/2023/March",
+    "500-Workspace/800-Resources/820-PoC/820.001-Cybereason",
+    "500-Workspace/800-Resources/820-PoC",
+    "100-Personal/300-Resources/301-Snippets/301.006-Docker",
+    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/Certificat_MOOC_CNIL_Module5.pdf",
+    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/Certificat_MOOC_CNIL_Module4.pdf",
+    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/Certificat_MOOC_CNIL_Module3.pdf"
   ]
 }

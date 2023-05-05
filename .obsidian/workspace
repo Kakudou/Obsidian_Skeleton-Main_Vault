@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01221fe9f8045749",
+        "id": "aaee5624b1149873",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "000.000.global-index.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Ansible/Collections/HashiCorp/Features",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 396
   },
   "right": {
     "id": "a00e71660b5cb290",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000.000.global-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000.000.global-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "000.000.global-index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +130,7 @@
             }
           },
           {
-            "id": "7eee84b875159f3c",
+            "id": "a43b5a45b27e81ab",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -153,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01221fe9f8045749",
+  "active": "aaee5624b1149873",
   "lastOpenFiles": [
-    "010-Planners/014-Daily/2022/August/2022-08-24.md",
-    "000-Meta/001-Settings/obsidian-settings.md",
-    "000-Meta/002-Plugins/002.002-Optionals/reading-time.md",
-    "000-Meta/002-Plugins/002.002-Optionals/linter.md",
-    "000-Meta/002-Plugins/002.002-Optionals/enhancing-mindmap.md",
-    "000-Meta/002-Plugins/002.002-Optionals/copy-button-for-code-block.md",
-    "000-Meta/002-Plugins/002.002-Optionals/checklist.md",
-    "000-Meta/002-Plugins/002.001-Required/templater.md",
-    "000-Meta/002-Plugins/002.001-Required/kanban.md",
-    "000-Meta/002-Plugins/002.001-Required/editor-syntax-highlight.md"
+    "500-Workspace/500.000.workspace-index.md",
+    "020-Zettelkasten/020.000.zettelkasten-index.md",
+    "100-Personal/100.000.personal-index.md",
+    "000.000.global-index.md",
+    "010-Planners/014-Daily/2023/March/2023-03-28.md",
+    "010-Planners/014-Daily/2023/March/2023-03-20.md",
+    "020-Zettelkasten/022-Zettel/Cybereason.md",
+    "010-Planners/014-Daily/2023/February/2023-02-27.md",
+    "010-Planners/014-Daily/2023/February/2023-02-07.md",
+    "100-Personal/101-Zettelkasten/101.002-Definitions/sql_injection.md"
   ]
 }

@@ -11,5 +11,11 @@
   "attachmentFolderPath": "020-Zettelkasten/021-Attachments",
   "userIgnoreFilters": [
     "000-Meta/"
-  ]
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
