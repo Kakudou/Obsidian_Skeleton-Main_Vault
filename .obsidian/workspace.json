@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1d2b63ceee25382",
+        "id": "20fcf307883b35a7",
         "type": "tabs",
         "children": [
           {
-            "id": "987871cdd3ffd2c9",
+            "id": "724a82ef07ad54e6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -130,14 +130,6 @@
             }
           },
           {
-            "id": "aa685dd1e31ff184",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "13af2dea123c3dc4",
             "type": "leaf",
             "state": {
@@ -146,7 +138,15 @@
             }
           },
           {
-            "id": "5429d55b811582b3",
+            "id": "c75418eb086113b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "adfe8e96803db5e0",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -154,12 +154,25 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
+      },
+      {
+        "id": "85b674066304d0be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3881c19d571efb1",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +185,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dcb96dcbc36f7269",
+  "active": "724a82ef07ad54e6",
   "lastOpenFiles": [
+    "010-Planners/014-Daily/2023/August/2023-08-14.md",
+    "000.000.global-index.md",
+    "010-Planners/014-Daily/2023/August",
+    "010-Planners/014-Daily/2023",
     "020-Zettelkasten/020.000.zettelkasten-index.md",
     "010-Planners/014-Daily/2023/May/2023-05-05.md",
     "010-Planners/014-Daily/2023/May",
-    "010-Planners/014-Daily/2023",
-    "000.000.global-index.md",
     "000-Meta/003-Templates/003.003.dailyplanner.md",
     "000-Meta/003-Templates/003.004.weeklyplanner.md",
     "000-Meta/003-Templates/003.005.kanbanboard.md",
@@ -201,13 +216,11 @@
     "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/module4_dpo_outils_conformite.md",
     "010-Planners/014-Daily/2023/April",
     "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/module3_responsabilites.md",
-    "500-Workspace/500.000.workspace-index.md",
     "010-Planners/014-Daily/2023/March",
     "500-Workspace/800-Resources/820-PoC/820.001-Cybereason",
     "500-Workspace/800-Resources/820-PoC",
     "100-Personal/300-Resources/301-Snippets/301.006-Docker",
     "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/Certificat_MOOC_CNIL_Module5.pdf",
-    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/Certificat_MOOC_CNIL_Module4.pdf",
-    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/Certificat_MOOC_CNIL_Module3.pdf"
+    "100-Personal/400-Archived/401-MOOC/401.000-CNIL_DPO/Certificat_MOOC_CNIL_Module4.pdf"
   ]
 }
