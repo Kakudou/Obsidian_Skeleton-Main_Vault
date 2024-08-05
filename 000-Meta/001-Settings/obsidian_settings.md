@@ -17,11 +17,11 @@ Title: Obsidian Settings
 ### Files & Links
 
 `Default Location for new notes` : `In the folder specified below`  
-`Folder to create new notes in` : `020-Zettelkasten/022-Zettel`  
+`Folder to create new notes in` : `020-Zettelkasten/021-Zettel`  
 `Use [[Wikilinks]]` : `False`
 `Detect all file extensions` : `True`  
 `Default location for new attachments` : `In the folder specified below`  
-`Attachment folder path` : `020-Zettelkasten/021-Attachments`  
+`Attachment folder path` : `020-Zettelkasten/022-Attachments`  
 `Excluded files` : `000-Meta`
 
 ### Appearance
