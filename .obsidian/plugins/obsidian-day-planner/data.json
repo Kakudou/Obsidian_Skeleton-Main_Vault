@@ -8,7 +8,7 @@
   "startHour": 6,
   "timelineDateFormat": "LLLL",
   "centerNeedle": true,
-  "plannerHeading": "### Working Day",
+  "plannerHeading": "",
   "plannerHeadingLevel": 1,
   "timelineColored": false,
   "timelineStartColor": "#006466",
