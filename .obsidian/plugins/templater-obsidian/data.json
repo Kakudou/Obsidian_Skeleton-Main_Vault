@@ -25,6 +25,10 @@
     {
       "folder": "010-Planners/014-Daily",
       "template": "000-Meta/003-Templates/003.003.dailyplanner.md"
+    },
+    {
+      "folder": "020-Feedbacks/024-Daily",
+      "template": "000-Meta/003-Templates/003.010.retrofeedback.md"
     }
   ],
   "syntax_highlighting": true,

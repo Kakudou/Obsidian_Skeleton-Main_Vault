@@ -5,10 +5,10 @@
   "tabSize": 2,
   "spellcheck": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "020-Funnel/021-Notes",
+  "newFileFolderPath": "030-Funnel/031-Notes",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "020-Funnel/022-Attachments",
+  "attachmentFolderPath": "030-Funnel/032-Attachments",
   "userIgnoreFilters": [
     "000-Meta/"
   ],
