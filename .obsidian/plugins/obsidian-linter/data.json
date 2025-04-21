@@ -28,20 +28,25 @@
       "enabled": true,
       "date-created": false,
       "date-created-key": "date created",
-      "force-retention-of-create-value": false,
       "date-modified": true,
       "date-modified-key": "Modification Date",
-      "format": "YYYY/MM/DD HH:mm:ss"
+      "format": "YYYY/MM/DD HH:mm:ss",
+      "date-created-source-of-truth": "file system",
+      "date-modified-source-of-truth": "file system",
+      "convert-to-utc": false,
+      "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
       "enabled": false,
-      "title-key": "Title"
+      "title-key": "Title",
+      "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
       "enabled": false,
       "preserve-existing-alias-section-style": true,
       "keep-alias-that-matches-the-filename": false,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
+      "alias-helper-key": "linter-yaml-title-alias"
     },
     "capitalize-headings": {
       "enabled": false,
@@ -74,7 +79,8 @@
       "style": "consistent"
     },
     "no-bare-urls": {
-      "enabled": false
+      "enabled": false,
+      "no-bare-uris": false
     },
     "proper-ellipsis": {
       "enabled": false
@@ -96,7 +102,8 @@
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": true
+      "enabled": true,
+      "line-break-indicator": "  "
     },
     "compact-yaml": {
       "enabled": false,
@@ -124,7 +131,7 @@
       "enabled": true
     },
     "paragraph-blank-lines": {
-      "enabled": true
+      "enabled": false
     },
     "remove-empty-lines-between-list-markers-and-checklists": {
       "enabled": true
@@ -136,20 +143,146 @@
       "enabled": true
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
-      "enabled": false
+      "enabled": false,
+      "english-symbols-punctuation-before": "-+;:'\"°%$)]",
+      "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "trailing-spaces": {
       "enabled": true,
       "twp-space-line-break": true
+    },
+    "add-blank-line-after-yaml": {
+      "enabled": false
+    },
+    "dedupe-yaml-array-values": {
+      "enabled": false,
+      "dedupe-alias-key": true,
+      "dedupe-tag-key": true,
+      "dedupe-array-keys": true,
+      "ignore-keys": ""
+    },
+    "force-yaml-escape": {
+      "enabled": false,
+      "force-yaml-escape-keys": ""
+    },
+    "format-yaml-array": {
+      "enabled": false,
+      "alias-key": true,
+      "tag-key": true,
+      "default-array-style": "single-line",
+      "default-array-keys": true,
+      "force-single-line-array-style": "",
+      "force-multi-line-array-style": ""
+    },
+    "move-tags-to-yaml": {
+      "enabled": false,
+      "how-to-handle-existing-tags": "Nothing",
+      "tags-to-ignore": ""
+    },
+    "sort-yaml-array-values": {
+      "enabled": false,
+      "sort-alias-key": true,
+      "sort-tag-key": true,
+      "sort-array-keys": true,
+      "ignore-keys": "",
+      "sort-order": "Ascending Alphabetical"
+    },
+    "headings-start-line": {
+      "enabled": false
+    },
+    "remove-trailing-punctuation-in-heading": {
+      "enabled": false,
+      "punctuation-to-remove": ".,;:!。，；：！"
+    },
+    "auto-correct-common-misspellings": {
+      "enabled": false,
+      "ignore-words": "",
+      "skip-words-with-multiple-capitals": false,
+      "extra-auto-correct-files": []
+    },
+    "blockquote-style": {
+      "enabled": false,
+      "style": "space"
+    },
+    "default-language-for-code-fences": {
+      "enabled": false,
+      "default-language": ""
+    },
+    "ordered-list-style": {
+      "enabled": false,
+      "number-style": "ascending",
+      "list-end-style": "."
+    },
+    "quote-style": {
+      "enabled": false,
+      "single-quote-enabled": true,
+      "single-quote-style": "''",
+      "double-quote-enabled": true,
+      "double-quote-style": "\"\""
+    },
+    "unordered-list-style": {
+      "enabled": false,
+      "list-style": "consistent"
+    },
+    "empty-line-around-blockquotes": {
+      "enabled": false
+    },
+    "empty-line-around-horizontal-rules": {
+      "enabled": false
+    },
+    "empty-line-around-math-blocks": {
+      "enabled": false
+    },
+    "move-math-block-indicators-to-their-own-line": {
+      "enabled": false
+    },
+    "remove-space-around-characters": {
+      "enabled": false,
+      "include-fullwidth-forms": true,
+      "include-cjk-symbols-and-punctuation": true,
+      "include-dashes": true,
+      "other-symbols": ""
+    },
+    "remove-space-before-or-after-characters": {
+      "enabled": false,
+      "characters-to-remove-space-before": ",!?;:).’”]",
+      "characters-to-remove-space-after": "¿¡‘“(["
+    },
+    "add-blockquote-indentation-on-paste": {
+      "enabled": false
+    },
+    "prevent-double-checklist-indicator-on-paste": {
+      "enabled": false
+    },
+    "prevent-double-list-item-indicator-on-paste": {
+      "enabled": false
+    },
+    "proper-ellipsis-on-paste": {
+      "enabled": false
+    },
+    "remove-hyphens-on-paste": {
+      "enabled": false
+    },
+    "remove-leading-or-trailing-whitespace-on-paste": {
+      "enabled": false
+    },
+    "remove-leftover-footnotes-from-quote-on-paste": {
+      "enabled": false
+    },
+    "remove-multiple-blank-lines-on-paste": {
+      "enabled": false
     }
   },
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
+  "lintOnFileChange": false,
+  "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
+  "filesToIgnore": [],
   "linterLocale": "en-gb",
-  "logLevel": 4,
+  "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {

@@ -1,1 +1,238 @@
-{ "main": { "id": "6a73aba187db8256", "type": "split", "children": [ { "id": "c928940963733558", "type": "tabs", "children": [ { "id": "ff3d674068acf6d2", "type": "leaf", "state": { "type": "markdown", "state": { "file": "020-Funnel/020.000.funnel-index.md", "mode": "source", "source": true } } } ] } ], "direction": "vertical" }, "left": { "id": "926f51e5d43fb550", "type": "split", "children": [ { "id": "1df8a37f0d0fa214", "type": "tabs", "children": [ { "id": "205521c267bfa48d", "type": "leaf", "state": { "type": "file-explorer", "state": { "sortOrder": "alphabetical" } } }, { "id": "e3c85f5b5896c2a2", "type": "leaf", "state": { "type": "search", "state": { "query": "", "matchingCase": false, "explainSearch": false, "collapseAll": false, "extraContext": false, "sortOrder": "alphabetical" } } }, { "id": "1c190a8fa557a31c", "type": "leaf", "state": { "type": "bookmarks", "state": {} } } ] } ], "direction": "horizontal", "width": 300 }, "right": { "id": "a83f00e89e8d5a9d", "type": "split", "children": [ { "id": "d8a7c533fba6f107", "type": "tabs", "children": [ { "id": "4c4a66c4b2cdc52a", "type": "leaf", "state": { "type": "calendar", "state": {} } }, { "id": "811c1398f00ca1a6", "type": "leaf", "state": { "type": "backlink", "state": { "file": "020-Funnel/020.000.funnel-index.md", "collapseAll": false, "extraContext": false, "sortOrder": "alphabetical", "showSearch": false, "searchQuery": "", "backlinkCollapsed": false, "unlinkedCollapsed": true } } }, { "id": "8cd00bf0542e6595", "type": "leaf", "state": { "type": "outgoing-link", "state": { "file": "020-Funnel/020.000.funnel-index.md", "linksCollapsed": false, "unlinkedCollapsed": true } } }, { "id": "aedfeeedb3b347eb", "type": "leaf", "state": { "type": "tag", "state": { "sortOrder": "frequency", "useHierarchy": true } } }, { "id": "907cb3c536e54d25", "type": "leaf", "state": { "type": "all-properties", "state": { "sortOrder": "frequency", "showSearch": false, "searchQuery": "" } } }, { "id": "374473ee12266698", "type": "leaf", "state": { "type": "outline", "state": { "file": "020-Funnel/020.000.funnel-index.md" } } }, { "id": "894e147fc9d950be", "type": "leaf", "state": { "type": "todo", "state": {} } } ], "currentTab": 6 } ], "direction": "horizontal", "width": 300, "collapsed": true }, "left-ribbon": { "hiddenItems": { "obsidian-day-planner:Timeline": false, "obsidian-kanban:Create new board": false, "templater-obsidian:Templater": false, "switcher:Open quick switcher": false, "graph:Open graph view": false, "canvas:Create new canvas": false, "daily-notes:Open today's daily note": false, "command-palette:Open command palette": false, "workspaces:Manage workspace layouts": false } }, "active": "ff3d674068acf6d2", "lastOpenFiles": [] }
+{
+  "main": {
+    "id": "6a73aba187db8256",
+    "type": "split",
+    "children": [
+      {
+        "id": "c928940963733558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff3d674068acf6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020-Funnel/020.000.funnel-index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "020.000.funnel-index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "926f51e5d43fb550",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df8a37f0d0fa214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "205521c267bfa48d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e3c85f5b5896c2a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c190a8fa557a31c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a83f00e89e8d5a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8a7c533fba6f107",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c4a66c4b2cdc52a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "811c1398f00ca1a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "020-Funnel/020.000.funnel-index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 020.000.funnel-index"
+            }
+          },
+          {
+            "id": "8cd00bf0542e6595",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "020-Funnel/020.000.funnel-index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 020.000.funnel-index"
+            }
+          },
+          {
+            "id": "aedfeeedb3b347eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "907cb3c536e54d25",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "374473ee12266698",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "020-Funnel/020.000.funnel-index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 020.000.funnel-index"
+            }
+          },
+          {
+            "id": "96e7304ad7698884",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8db92bfe669924e7",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "54bc3ccedd61ed05",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "ff3d674068acf6d2",
+  "lastOpenFiles": [
+    "010-Planners/014-Daily/2025/April/2025-04-21.md",
+    "020-Funnel/020.000.funnel-index.md",
+    "010-Planners/014-Daily/2025/April",
+    "010-Planners/014-Daily/2025"
+  ]
+}
