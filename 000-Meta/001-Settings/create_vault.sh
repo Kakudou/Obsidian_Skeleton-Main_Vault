@@ -23,16 +23,6 @@ bootstrap_repo() {
   echo "Initializing new git repository"
   git init
 
-  # Generate per-vault encryption key if missing
-  if [[ ! -f .vault_key ]]; then
-    echo "Generating per-vault encryption key .vault_key"
-    openssl rand -hex 32 > .vault_key
-  fi
-
-  # Ignore the key file
-  echo ".vault_key" >> .gitignore
-  git add .gitignore
-
   # Mark markdown for encryption
   echo "*.md filter=vault" >> .gitattributes
   git add .gitattributes
